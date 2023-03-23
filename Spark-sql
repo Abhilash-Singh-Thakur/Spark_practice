@@ -1,3 +1,14 @@
-1. pyspark-sql - this will run the pyspark shell
-2. Then create the database and use database like sql command.
-SET spark.sql.warehouse.dir  This command will create the directory in lo3. SET spark.sql.warehouse.dir  This command will create the directory inside the spark warehouse and test.db will be inserted.
+1. pyspark-sql - this will run the pyspark shell.
+2.SET spark.sql.warehouse.dir  This command will create the directory in lo3. SET spark.sql.warehouse.dir  This command will create the directory inside the spark warehouse and test.db will be inserted.
+
+3. create database test;
+
+4. use test;
+
+5. select current_database(); # To select the test database;
+ 
+6. ls -itr pth of the file from local # to locate the file inside the folder.
+
+7. create the table
+
+8. load data local inpath 'path of floder' into table table_name.
