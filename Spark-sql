@@ -12,3 +12,9 @@
 7. create the table
 
 8. load data local inpath 'path of floder' into table table_name. # Command to load data into the table from local file.
+
+9. echo $SPARK_MAJOR_VERSION - This command will show the the python version which is set for spark cli.
+
+10. pyspark - to go into pyspark shell.
+
+11.
