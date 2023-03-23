@@ -1,0 +1,3 @@
+1. pyspark-sql - this will run the pyspark shell
+2. Then create the database and use database like sql command.
+SET spark.sql.warehouse.dir  This command will create the directory in lo3. SET spark.sql.warehouse.dir  This command will create the directory inside the spark warehouse and test.db will be inserted.
