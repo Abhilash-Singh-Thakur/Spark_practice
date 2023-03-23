@@ -11,4 +11,4 @@
 
 7. create the table
 
-8. load data local inpath 'path of floder' into table table_name.
+8. load data local inpath 'path of floder' into table table_name. # Command to load data into the table from local file.
